@@ -1,6 +1,6 @@
 module.exports = {
   extends: [
-    'airbnb',
+    'eslint-config-airbnb',
   ].map(require.resolve),
   rules: {
     'max-len': [2, 80, 2, {
