@@ -1,0 +1,40 @@
+{
+  "name": "eslint-config-evozonjs",
+  "version": "1.0.0",
+  "description": "EvozonJS's ESLint config, following Airbnb's styleguides and a few additions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evozonjs/eslint-config-evozonjs.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "airbnb",
+    "javascript",
+    "styleguide"
+  ],
+  "author": "Robert Richter",
+  "contributors": [
+    {
+      "name": "Alex Pausan",
+      "url": "https://github.com/alexpausan"
+    },
+    {
+      "name": "Robert Richter",
+      "url": "https://github.com/robi-richter"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evozonjs/eslint-config-evozonjs/issues"
+  },
+  "homepage": "https://github.com/evozonjs/javascript",
+  "devDependencies": {
+    "eslint-config-airbnb": "^7.0.0"
+  }
+}
