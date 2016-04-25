@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-evozonjs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "EvozonJS's ESLint config, following Airbnb's styleguides and a few additions",
   "main": "index.js",
   "scripts": {
