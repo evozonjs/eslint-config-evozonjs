@@ -11,8 +11,7 @@ We export three ESLint configurations for your usage.
 ### eslint-config-evozonjs
 
 Our default export contains all of our ESLint rules, including ECMAScript 6+
-and React and a few extras we added ourselves. It requires `eslint`, `eslint-plugin-import`, `eslint-plugin-react`,
-and `eslint-plugin-jsx-a11y`.
+and React and a few extras we added ourselves. It requires `eslint`, `eslint-plugin-import`, `eslint-plugin-react`, `eslint-config-airbnb` and `eslint-plugin-jsx-a11y`.
 
 1. `npm install --save-dev eslint-config-evozonjs eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y eslint`
 2. add `"extends": "evozonjs"` to your .eslintrc. That's it.
